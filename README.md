@@ -9,7 +9,7 @@
 This portfolio contains documented engineering labs demonstrating my hands-on capabilities in **Systems Administration (Windows Server 2022)** and **Network Engineering (Cisco)**. All environments were designed, configured, and verified by me to simulate real-world enterprise architectures.
 
 ### 📌 Project Master File
-* 📑 **Download Full Project Report (PDF):** [Portfolio OS.pdf](Portfolio OS.pdf)
+* 📑 **Download Full Project Report (PDF):** [Portfolio OS.pdf](Portfolio%20OS.pdf)
 
 ---
 
@@ -33,23 +33,23 @@ This portfolio contains documented engineering labs demonstrating my hands-on ca
   ```
 
 <details>
-<summary><b>📸 Click here to view Project Screenshots & Configuration Proofs</b></summary>
+<summary><b>📸 Click here to view Project 1 Screenshots & Configuration Proofs</b></summary>
 
 | Static IP Configuration | Domain Name Details |
 | :---: | :---: |
-| ![Static IP](Statisk IP.png) | ![Domain Navn](Domain Navn.png) |
+| ![Static IP](Statisk%20IP.png) | ![Domain Navn](Domain%20Navn.png) |
 
 | Client Domain Association | GPO Management View |
 | :---: | :---: |
-| ![Klient er medlem af server](Klient er medlem af server.png) | ![GPO i management](GPO i management.png) |
+| ![Klient er medlem af server](Klient%20er%20medlem%20af%20server.png) | ![GPO i management](GPO%20i%20management.png) |
 
 | GPO Status Verification | GPO Deployment on Client |
 | :---: | :---: |
-| ![aktive instillinger GPO](aktive instillinger GPO.png) | ![GPO på klient](GPO på klient.png) |
+| ![aktive instillinger GPO](aktive%20instillinger%20GPO.png) | ![GPO på klient](GPO%20på%20klient.png) |
 
 | Network Diagnostics View | GPO Block Execution Proof |
 | :---: | :---: |
-| ![Ping og nslookup](Ping og nslookup.png) | ![gpo effect på klient](gpo effect på klient.png) |
+| ![Ping og nslookup](Ping%20og%20nslookup.png) | ![gpo effect på klient](gpo%20effect%20på%20klient.png) |
 
 </details>
 
@@ -68,10 +68,31 @@ This portfolio contains documented engineering labs demonstrating my hands-on ca
 2. **Workstation Optimization & Threat Mitigation:**
    * Installed **Avast Free Antivirus** to secure the local endpoints, ensuring full real-time file shielding and registry monitoring.
 3. **Identity & Firewall Architecture:**
-   * Structured local user security profiles based on department routing (e.g., `Bavranjan Gupta - IT Chef`, `Charlie Mørk - Ledelse`).
-   * Configured explicit **Windows Defender Firewall** inbound rules, specifically enabling ICMPv4 protocols to support secure internal network diagnostics.
+   * Structured local user security profiles based on department routing (e.g., `Bavranjan Gupta - IT Chef`, `Charlie Mørk - Ledelse`, `Mohammed Asiaan - Salgsassistent`).
+   * Configured explicit **Windows Defender Firewall** inbound and outbound rules, enabling ICMPv4 protocols to support secure internal network diagnostics.
 
 ### 🔍 Technical Troubleshooting Case Study: APIPA Resolution
 * **The Issue:** Workstations `PC1` and `PC2` suddenly experienced total loss of network resource accessibility.
 * **The Diagnosis:** Detected a fallback IP allocation within the **`169.254.X.X` subnet range** via `ipconfig`. This directly isolated the root cause: an **APIPA (Automatic Private IP Addressing)** state, proving the clients completely lost operational links to the DHCP server.
-* **The Recovery:** Leveraged **System Restore (Systemgendannelse)** points to roll back broken configuration boundaries, safely restoring workstation connectivity.
+* **The Recovery:** Leveraged **System Restore (Systemgendannelse)** points (`Ny Backup`) to roll back broken configuration boundaries, safely restoring workstation connectivity.
+
+<details>
+<summary><b>📸 Click here to view Project 2 Screenshots & Configuration Proofs</b></summary>
+
+| Task Scheduler (Opgavestyring) | AOMEI Backup Deployment |
+| :---: | :---: |
+| ![Task Scheduler](image_nvLINl.png) | ![AOMEI Backup](image_TO5Rss.png) |
+
+| Endpoint Protection | Local User Directories |
+| :---: | :---: |
+| ![Avast Security](image_uwbtrZ.png) | ![Local Users](image_DPh9DN.png) |
+
+| CCleaner Storage Cleanup | APIPA Network Diagnostic |
+| :---: | :---: |
+| ![CCleaner](image_63ErjO.png) | ![APIPA Diagnostic](image_pM4cPT.png) |
+
+| Inbound Firewall Rules | Outbound Firewall Rules |
+| :---: | :---: |
+| ![Inbound Rules](image_vebHDW.png) | ![Outbound Rules](image_4KJxMI.png) |
+
+</details>
