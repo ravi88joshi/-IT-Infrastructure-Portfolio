@@ -81,18 +81,23 @@ This portfolio contains documented engineering labs demonstrating my hands-on ca
 
 | Task Scheduler (Opgavestyring) | AOMEI Backup Deployment |
 | :---: | :---: |
-| ![Task Scheduler](image_nvLINl.png) | ![AOMEI Backup](image_TO5Rss.png) |
+| ![Task Scheduler](Bat-File%20Backup-opgave.png) | ![AOMEI Backup](backup.png) |
 
 | Endpoint Protection | Local User Directories |
 | :---: | :---: |
-| ![Avast Security](image_uwbtrZ.png) | ![Local Users](image_DPh9DN.png) |
+| ![Avast Security](Anitivirus.png) | ![Local Users](Brugere.png) |
 
 | CCleaner Storage Cleanup | APIPA Network Diagnostic |
 | :---: | :---: |
-| ![CCleaner](image_63ErjO.png) | ![APIPA Diagnostic](image_pM4cPT.png) |
+| ![CCleaner](Ccleaner.png) | ![APIPA Diagnostic](DHCP-config.png) |
 
 | Inbound Firewall Rules | Outbound Firewall Rules |
 | :---: | :---: |
-| ![Inbound Rules](image_vebHDW.png) | ![Outbound Rules](image_4KJxMI.png) |
+| ![Inbound Rules](firewall-in.png) | ![Outbound Rules](firewall-out.png) |
+
+| System Restore Baseline | System Restore Execution |
+| :---: | :---: |
+| ![System Restore 1](Gendannelse.png) | ![System Restore 2](Gendannelse2.png) |
 
 </details>
+
