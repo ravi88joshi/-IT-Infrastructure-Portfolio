@@ -19,17 +19,21 @@ Welcome to my IT portfolio. This repository documents practical projects and lab
 
 ### 01. CMIS — Network & IT Infrastructure
 
-**Type:** Collaborative team project
+**Team members:** Ramakant Joshi and Jonas Larsen  
+**Project type:** Collaborative team project
 
-A team project covering enterprise network design, Windows Server infrastructure, and connectivity testing.
+A team project focused on designing and implementing an IT infrastructure for a company expanding from Copenhagen to Aarhus.
 
+**Key areas:**
 - Network topology and VLSM subnetting
 - DHCP, routing and inter-network connectivity
 - Windows Server 2022 and Active Directory
 - DNS, users, groups, file shares and permissions
-- Group Policy, security and verification testing
+- Group Policy, security and connectivity testing
 
-*Project report and supporting evidence will be added to the repository.*
+📁 **[View CMIS Project Documentation](01-CMIS-Network-Infrastructure/)**
+
+*The project documentation and supporting evidence will be added as the repository develops.*
 
 ### 02. Enterprise Active Directory & Group Policy
 
