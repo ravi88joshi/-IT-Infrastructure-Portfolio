@@ -1,17 +1,66 @@
-# 🧑‍💻 IT Infrastructure & Systems Engineering Portfolio
-**Candidate:** Ramakant Joshi  
-**Location:** Copenhagen, Denmark  
-**Education:** Technical Education Copenhagen (TEC)  
+# 🧑‍💻 IT Support & Infrastructure Portfolio
 
----
+**Aspiring IT Support / Helpdesk Professional**  
+📍 Copenhagen, Denmark | 🎓 Technical Education Copenhagen (TEC)
 
-## 📂 Portfolio Overview
-This portfolio contains documented engineering labs demonstrating my hands-on capabilities in **Systems Administration (Windows Server 2022)** and **Network Engineering (Cisco)**. All environments were designed, configured, and verified by me to simulate real-world enterprise architectures.
+Welcome to my IT portfolio. This repository documents practical projects and lab exercises in Windows Server administration, networking, endpoint security, and IT troubleshooting.
 
-### 📌 Project Master File
-* 📑 **Download Full Project Report (PDF):** [Portfolio OS.pdf](Portfolio%20OS.pdf)
+## 🛠️ Technical Skills
 
----
+| Area | Technologies and Skills |
+|---|---|
+| Operating Systems | Windows Server 2022, Windows 10 Pro |
+| Networking | IP addressing, subnetting, DHCP, DNS, routing, ping, traceroute |
+| System Administration | Active Directory, domain users and groups, Group Policy |
+| Security & Recovery | Windows Firewall, antivirus, backup, System Restore |
+| Tools | Cisco Packet Tracer, VirtualBox, Task Scheduler, AOMEI Backupper |
+
+## 📂 Featured Projects
+
+### 01. CMIS — Network & IT Infrastructure
+
+**Type:** Collaborative team project
+
+A team project covering enterprise network design, Windows Server infrastructure, and connectivity testing.
+
+- Network topology and VLSM subnetting
+- DHCP, routing and inter-network connectivity
+- Windows Server 2022 and Active Directory
+- DNS, users, groups, file shares and permissions
+- Group Policy, security and verification testing
+
+*Project report and supporting evidence will be added to the repository.*
+
+### 02. Enterprise Active Directory & Group Policy
+
+A Windows Server lab demonstrating domain setup, centralized identity management and workstation policy enforcement.
+
+- Active Directory Domain Services and domain configuration
+- DNS and DHCP
+- Organizational units, users and groups
+- Group Policy deployment and client verification
+- Network connectivity diagnostics
+
+[View Project 2 details below](#project-1-enterprise-active-directory-group-policy-deployment)
+
+### 03. Workstation Security & Disaster Recovery
+
+A workstation administration lab focused on endpoint protection, automated backup and recovery.
+
+- Scheduled backup tasks and AOMEI Backupper
+- Antivirus and workstation maintenance
+- Windows Firewall rules
+- System Restore and recovery procedures
+- DHCP and network troubleshooting
+
+[View Project 3 details below](#project-2-workstation-security-hardening-disaster-recovery)
+
+## 📑 Project Documentation
+
+Each project will include its own relevant documentation, configuration screenshots and testing evidence.
+
+Project reports and supporting files will be organized by project to make the portfolio easy to navigate.
+
 
 ## 🛠️ Project 1: Enterprise Active Directory & Group Policy Deployment
 
