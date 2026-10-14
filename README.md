@@ -66,7 +66,7 @@ Each project will include its own relevant documentation, configuration screensh
 Project reports and supporting files will be organized by project to make the portfolio easy to navigate.
 
 
-## 🛠️ Project 1: Enterprise Active Directory & Group Policy Deployment
+## 🛠️ Project 2: Enterprise Active Directory & Group Policy Deployment
 
 ### 📋 Project Overview
 * **Objective:** Design, deploy, and secure a centralized Windows Domain environment using VirtualBox to simulate a corporate infrastructure.
@@ -108,7 +108,7 @@ Project reports and supporting files will be organized by project to make the po
 
 ---
 
-## 🛠️ Project 2: Workstation Security Hardening & Disaster Recovery
+## 🛠️ Project 3: Workstation Security Hardening & Disaster Recovery
 
 ### 📋 Project Overview
 * **Objective:** Configure, secure, and automate maintenance workflows for corporate Windows workstations within a virtualized enterprise staging environment.
