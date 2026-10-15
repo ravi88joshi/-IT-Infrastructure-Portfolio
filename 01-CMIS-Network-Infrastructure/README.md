@@ -13,6 +13,12 @@ This was a collaborative two-person project. We worked together on the design, i
 
 This collaborative project focused on designing and implementing an IT infrastructure for a company expanding its operations from Copenhagen to Aarhus. The work covered network design, IP addressing, routing, Windows Server services, user management and connectivity verification.
 
+## Final Project Report
+
+📄 [Read the CMIS Final Project Report (PDF)](CMIS-Final-Project-Report.pdf)
+
+The report documents the team's proposed IT infrastructure, implementation work and verification activities.
+
 ## Technical Areas
 
 ### 1. Network Infrastructure
