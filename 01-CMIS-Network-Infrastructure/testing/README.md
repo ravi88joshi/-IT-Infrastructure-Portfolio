@@ -10,13 +10,13 @@ Shows successful ping replies and 0% packet loss, demonstrating connectivity bet
 
 ## 2. Group Policy Applied to Client
 
-![Group Policy Applied to Client](gpo-applied-to-client.png)
+![Group Policy Applied to Client](<32. GPOs applied to client PC.png>)
 
 Shows evidence of Group Policy application on a client PC.
 
 ## 3. Group Policy Applied to User
 
-![Group Policy Applied to User](gpo-applied-to-user.png)
+![Group Policy Applied to User](<33. GPOs applied to user Charlie Mørk.png>)
 
 Shows evidence of Group Policy application for a user account.
 
