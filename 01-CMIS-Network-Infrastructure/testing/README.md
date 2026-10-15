@@ -1,13 +1,25 @@
-# Network Testing Evidence
+# Network and Group Policy Testing
 
-This folder contains screenshots demonstrating network connectivity and Group Policy testing for the CMIS infrastructure project.
+This folder contains evidence of connectivity testing and Group Policy verification completed as part of the CMIS team project.
 
-## Evidence
+## 1. Ping Connectivity Test
 
-- **Ping Connectivity Test** — Shows successful communication between network devices, with replies received and 0% packet loss.
-- **Group Policy Applied to Client** — Demonstrates Group Policy application on a client PC.
-- **Group Policy Applied to User** — Demonstrates Group Policy application for a user account.
+![Ping Connectivity Test](ping-connectivity-test.png)
+
+Shows successful ping replies and 0% packet loss, demonstrating connectivity between the tested endpoints.
+
+## 2. Group Policy Applied to Client
+
+![Group Policy Applied to Client](gpo-applied-to-client.png)
+
+Shows evidence of Group Policy application on a client PC.
+
+## 3. Group Policy Applied to User
+
+![Group Policy Applied to User](gpo-applied-to-user.png)
+
+Shows evidence of Group Policy application for a user account.
 
 ## Purpose
 
-These tests provide evidence of network connectivity and Group Policy configuration in the CMIS environment.
+These screenshots support the team's verification of network connectivity and domain policy configuration.
