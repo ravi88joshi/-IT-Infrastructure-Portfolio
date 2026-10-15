@@ -51,6 +51,4 @@ A practical lab documenting disk and volume management exercises.
 
 ## 🎯 Career Objective
 
-## 🎯 Career Objective
-
 I am seeking an entry-level IT Support / Helpdesk role or an apprenticeship in IT Support or IT Infrastructure in Denmark. I want to apply my practical technical skills, develop my troubleshooting and system administration abilities, and gain hands-on experience while learning from experienced IT professionals.
