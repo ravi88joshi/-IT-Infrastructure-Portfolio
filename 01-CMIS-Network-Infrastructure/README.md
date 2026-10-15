@@ -48,7 +48,13 @@ The report documents the team's proposed IT infrastructure, implementation work 
 
 ## Project Evidence
 
-The final exam report documents the project design, implementation and verification activities.
+The final project report documents the team's proposed IT infrastructure, configuration work and verification activities.
+
+The report covers network design, IP addressing, Windows Server services, Active Directory, access management and connectivity testing.
+
+📄 [Read the CMIS Final Project Report (PDF)](CMIS-Final-Project-Report.pdf)
+
+Additional screenshots and supporting files may be added when available.
 
 **Planned supporting files:**
 - Final project report (PDF)
