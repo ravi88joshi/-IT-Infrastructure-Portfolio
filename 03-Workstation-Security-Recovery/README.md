@@ -21,3 +21,27 @@ The project evidence covers:
 - Network troubleshooting, including APIPA addressing
 
 Screenshots and supporting documentation will be organized in this folder.
+
+## Screenshots
+
+### Backup and Maintenance
+
+![Scheduled Backup Task](Bat-File%20Backup-opgave.png)
+
+![AOMEI Backup](backup.png)
+
+![CCleaner Storage Cleanup](Ccleaner.png)
+
+### Endpoint Security
+
+![Antivirus Protection](Anitivirus.png)
+
+![Inbound Firewall Rules](firewall-in.png)
+
+![Outbound Firewall Rules](firewall-out.png)
+
+### System Recovery
+
+![System Restore](Gendannelse.png)
+
+![System Restore Recovery](Gendannelse2.png)
