@@ -48,19 +48,21 @@ The report documents the team's proposed IT infrastructure, implementation work 
 
 ## Project Evidence
 
-The final project report documents the team's proposed IT infrastructure, configuration work and verification activities.
+The final project report documents the team's proposed infrastructure, implementation, and verification activities.
 
-The report covers network design, IP addressing, Windows Server services, Active Directory, access management and connectivity testing.
+The report covers network design, IP addressing, Windows Server configuration, access management, and connectivity testing.
 
-📄 [Read the CMIS Final Project Report (PDF)](CMIS-Final-Project-Report.pdf)
+📄 **[Read the CMIS Final Project Report (PDF)](CMIS-Final-Project-Report.pdf)**
 
-Additional screenshots and supporting files may be added when available.
+### Supporting Evidence
 
-**Planned supporting files:**
-- Final project report (PDF)
-- Network topology screenshots
-- Windows Server configuration evidence
-- Connectivity and access-control test results
+- **[Network Topology and Subnets](network/README.md)** — Network diagrams and LAN/WAN subnet layout.
+- **[Windows Server Configuration](windows-server/README.md)** — Server Manager, Active Directory, shared-folder permissions, and Group Policy Management.
+- **[Network and Group Policy Testing](testing/README.md)** — Connectivity testing and evidence of Group Policy application.
+
+This evidence supports the team's work on network infrastructure, Windows Server administration, and verification of the CMIS environment.
+
+**Team Members:** Ramakant Joshi and Jonas Larsen
 
 ## Team Contribution
 
