@@ -36,7 +36,7 @@ The screenshots below document workstation security, backup and maintenance acti
 
 ### Backup and Maintenance
 
-![Scheduled Backup Task](Bat-File%20Backup-opgave.png)
+![Scheduled Backup Task](Bat-File-Backup-opgave.png)
 
 ![AOMEI Backup](backup.png)
 
