@@ -3,8 +3,7 @@
 **Aspiring IT Support / Helpdesk Professional**  
 📍 Copenhagen, Denmark | 🎓 Technical Education Copenhagen (TEC)
 
-Welcome to my portfolio. This repository showcases practical IT labs and a collaborative final exam project covering Windows Server administration, network infrastructure, endpoint security, and troubleshooting.
-
+Welcome to my IT portfolio. This repository showcases hands-on IT labs and a collaborative final exam project covering Windows Server administration, network infrastructure, Active Directory, endpoint security, backup and recovery, and troubleshooting. Each project includes supporting screenshots and documentation of practical configuration and testing activities.
 ## 🛠️ Technical Skills
 
 - **Operating Systems:** Windows Server 2022, Windows 10 Pro
@@ -52,5 +51,6 @@ A practical lab documenting disk and volume management exercises.
 
 ## 🎯 Career Objective
 
-I am seeking an entry-level IT Support, Helpdesk or Junior IT Technician role where I can apply my practical technical skills, strengthen my troubleshooting abilities and continue developing in a professional IT environment.
+## 🎯 Career Objective
 
+I am seeking an entry-level IT Support / Helpdesk role or an apprenticeship in IT Support or IT Infrastructure in Denmark. I want to apply my practical technical skills, develop my troubleshooting and system administration abilities, and gain hands-on experience while learning from experienced IT professionals.
