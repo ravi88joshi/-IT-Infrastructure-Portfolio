@@ -20,7 +20,17 @@ The project evidence covers:
 - System Restore and recovery procedures
 - Network troubleshooting, including APIPA addressing
 
-Screenshots and supporting documentation will be organized in this folder.
+The screenshots below document workstation security, backup and maintenance activities, firewall configuration, and system recovery procedures performed in a virtualized Windows environment.
+
+## Key Tasks Completed
+
+- Configured an automated backup task using a batch file and Windows Task Scheduler.
+- Reviewed backup configuration using AOMEI Backupper Standard.
+- Reviewed workstation antivirus protection.
+- Configured and reviewed inbound and outbound Windows Firewall rules.
+- Practised System Restore and recovery procedures.
+- Investigated network connectivity issues, including APIPA addressing.
+- Performed workstation maintenance and storage cleanup using CCleaner.
 
 ## Screenshots
 
